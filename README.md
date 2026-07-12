@@ -258,7 +258,7 @@ TransitOps/
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shadow0378/transitops.git
 ```
 
 ### Frontend
